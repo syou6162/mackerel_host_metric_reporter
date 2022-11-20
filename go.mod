@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Songmu/horenso v0.9.1
-	github.com/mackerelio/mackerel-client-go v0.21.1
+	github.com/mackerelio/mackerel-client-go v0.23.0
 )
 
 require (
