@@ -6,7 +6,7 @@ toolchain go1.24.5
 
 require (
 	github.com/Songmu/horenso v0.10.0
-	github.com/mackerelio/mackerel-client-go v0.37.0
+	github.com/mackerelio/mackerel-client-go v0.37.2
 )
 
 require (
