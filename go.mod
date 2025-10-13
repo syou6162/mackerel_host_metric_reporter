@@ -2,7 +2,7 @@ module mackerel_host_metric_reporter
 
 go 1.21.0
 
-toolchain go1.25.1
+toolchain go1.25.3
 
 require (
 	github.com/Songmu/horenso v0.10.0
